@@ -14,10 +14,10 @@ The objective of this project was to create an annual sales report for Jiomart, 
 - **Top Product Categories:** Determined which product categories had the highest sales volume, guiding future product strategies.
 
 ## Key Insights:
-- Women accounted for a higher percentage of sales compared to men (-65%).
-- Maharashtra, Karnataka, and Uttar Pradesh were the top three states contributing to total sales (-35%).
-- The adult age group (30-49 years) made the highest contribution to sales (-50%).
-- E-commerce platforms like Amazon, Flipkart, and Myntra were responsible for the majority of sales (-80%).
+- Women accounted for a higher percentage of sales compared to men (+65%).
+- Maharashtra, Karnataka, and Uttar Pradesh were the top three states contributing to total sales (+35%).
+- The adult age group (30-49 years) made the highest contribution to sales (+50%).
+- E-commerce platforms like Amazon, Flipkart, and Myntra were responsible for the majority of sales (+80%).
 
 ## Conclusion:
 Based on the analysis, the recommended strategy for Jiomart is to focus marketing efforts on women aged 30-49 living in Maharashtra, Karnataka, and Uttar Pradesh. Special promotions, ads, and coupons should be emphasized through channels like Amazon, Flipkart, and Myntra to drive higher sales in 2025.
